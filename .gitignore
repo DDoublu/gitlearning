@@ -139,6 +139,7 @@ dmypy.json
 tmp.py
 tmp.ipynb
 tmp.txt
+tmp.md
 
 # data
 wData/
